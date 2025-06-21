@@ -508,7 +508,7 @@ img{
 }
 
 .skills__css{
-    width: 80%;
+    width: 100%;
 }
 
 .skills__php{
@@ -520,7 +520,10 @@ img{
 }
 
 .skills__php1{
-    width: 80%;
+    width: 90%;
+}
+.skills__flutter{
+    width: 100%;
 }
 
 .skills__node{
